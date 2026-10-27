@@ -1,3 +1,3 @@
-Model,Accuracy,Macro_F1,Correct_Predictions,Incorrect_Predictions,Test_Images
-SVM,0.9697,0.9659,96,3,99
-MobileNetV2,0.9495,0.9445,94,5,99
+Model,Test Accuracy,Test Macro F1
+Classical SVM,0.9696969696969697,0.9658914728682171
+MobileNetV2,0.9494949494949495,0.9444716165472846
